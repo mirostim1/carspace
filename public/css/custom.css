@@ -1,0 +1,41 @@
+body {
+     background: white;
+}
+
+.errors {
+     list-style-type: none;
+}
+
+.numb {
+    font-size: 2rem;
+}
+
+.number {
+     font-size: 20rem;
+     color: orange;
+     padding-top: 25px;
+}
+
+#second-row {
+    padding-top: 125px;
+}
+
+.space-free {
+    min-height: 40px;
+    border: solid 1px grey;
+    background-color: limegreen;
+}
+
+.space-taken {
+    min-height: 40px;
+    border: solid 1px grey;
+    background-color: coral;
+}
+
+.spaces-admin {
+    padding-top: 90px;
+}
+
+#secondrow {
+    padding-top: 125px;
+}

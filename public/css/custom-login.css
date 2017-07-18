@@ -1,0 +1,32 @@
+body {
+    background: url('../img/back-login.jpg');
+}
+
+.login {
+    display: none;
+    margin-top: 35px;
+    border-radius: 0;
+}
+
+.register {
+    display: none;
+    margin-top: 35px;
+    border-radius: 0;
+}
+
+.reset {
+    display: none;
+    margin-top: 35px;
+    border-radius: 0;
+}
+
+.reset-passw {
+    display: none;
+    margin-top: 35px;
+    border-radius: 0;
+}
+
+.log1 {
+    background: #2579a9;
+    color: white;
+}
